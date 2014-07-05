@@ -1,0 +1,13 @@
+c046ba02183317b22aab7da9c52cbcde *DESCRIPTION
+c8b0dcadea363ca810a1fcfc6c738817 *NAMESPACE
+b5c8ca314707da570b51ce01d59c65d2 *R/lincombfun.R
+ea85a7ba9faaca4f7e2d6ea3128558a9 *R/momentfun.R
+9c72fb21ca0f1dda585f5e6cb3252a6a *R/quadp.R
+523f7193d695a9614fe4c0a6d092908d *R/sumfun.R
+80f540245969aa5fbe9b8603833904c9 *data/mycoef.rda
+6b282cba31b8d9bc44f6f272c2638a4c *man/lincombfun.Rd
+85f4c50865aba00bf580832ec6db71bd *man/momentfun.Rd
+cc0283827570c277f5a1e8db174971a7 *man/mycoef.Rd
+2598a6f8725c40a1c80f7b8d7d78585a *man/quad-package.Rd
+b0eff78cba969f8837a73455d03a44ff *man/quadp.Rd
+a4975d8efa69234fb48a5163f4dffad5 *man/sumfun.Rd
